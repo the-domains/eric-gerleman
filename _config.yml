@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#C8C8C8'
-    - '#5F2F26'
-    - '#888878'
-    - '#C07060'
-    - '#000000'
+    - '#202215'
+    - '#453F29'
+    - '#E2ECF6'
+    - '#A57062'
+    - '#C49486'
   brandStrength: 0.756579
   lightness: 0.661184
   rhythmicContrast: 0.716283
   saturation: 0.481908
 cta: {}
-layout_spectrum: 0.01398
+layout_spectrum: 0.57977
 name: Eric Gerleman
 opengraph: {}
 purpose: {}
