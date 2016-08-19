@@ -1,4 +1,11 @@
+name: Eric Gerleman
+layout_spectrum: 0.57977
+typography_spectrum: 0.523026
+cta: {}
 analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#202215'
@@ -8,11 +15,13 @@ color:
     - '#C49486'
   brandStrength: 0.756579
   lightness: 0.661184
-  rhythmicContrast: 0.716283
   saturation: 0.481908
-cta: {}
-layout_spectrum: 0.57977
-name: Eric Gerleman
-opengraph: {}
+  rhythmicContrast: 0.716283
 purpose: {}
-typography_spectrum: 0.523026
+title: SAG/AFTRA
+author:
+  name: Eric
+  url: ''
+  email: Gerleman
+content_rating:
+  adult: false
